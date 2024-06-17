@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-[![Modylegi's GitHub stats](https://github-readme-stats.vercel.app/api?username=modylegi)](https://github.com/modylegi/github-readme-stats)
+![nyan-cat](https://github.com/modylegi/modylegi/assets/90706486/6ef4bb7d-ef7d-41a0-8c3d-e06fefeb7f6f)
